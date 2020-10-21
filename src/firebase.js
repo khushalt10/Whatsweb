@@ -1,15 +1,15 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBjHYTlAQpRSAlKY0OhNEYuBZtk0q3SZho",
-    authDomain: "real-time-chat-315ac.firebaseapp.com",
-    databaseURL: "https://real-time-chat-315ac.firebaseio.com",
-    projectId: "real-time-chat-315ac",
-    storageBucket: "real-time-chat-315ac.appspot.com",
-    messagingSenderId: "520069546310",
-    appId: "1:520069546310:web:f4f2a04436d5e584c2a547",
-    measurementId: "G-RHGW6FDRV7"
-  };
+  apiKey: "AIzaSyCD1OkPoUvUkIQBt7VbhOUgRKgPwnNpcRk",
+  authDomain: "whats-app-clone-614ac.firebaseapp.com",
+  databaseURL: "https://whats-app-clone-614ac.firebaseio.com",
+  projectId: "whats-app-clone-614ac",
+  storageBucket: "whats-app-clone-614ac.appspot.com",
+  messagingSenderId: "922142778992",
+  appId: "1:922142778992:web:307d06f1f45f43154476b5",
+  measurementId: "G-0FZ3TXM6M4"
+};
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
 
